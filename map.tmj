@@ -300,7 +300,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/evrybear.github.io\/meme25.github.io\/memes_2025_watermarked\/additionalStuff\/Schedule.html"
+                         "value":"https:\/\/evrybear.github.io\/meme25.github.io\/Temp\/MEME_2025_02.png.html"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -403,7 +403,7 @@
                         {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/evrybear.github.io\/meme25.github.io\/memes_2025_watermarked\/additionalStuff\/Welcome.html"
+                         "value":"https:\/\/evrybear.github.io\/meme25.github.io\/Temp\/MEME_2025_01.png.html"
                         }],
                  "type":"tilelayer",
                  "visible":true,
